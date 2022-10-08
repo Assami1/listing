@@ -138,6 +138,9 @@ foreach($results as $result)
               <div class="form-group select">
                 <select class="form-control" name="fueltype">
                   <option>Select Fuel Type</option>
+			<option value="Petrol">Petrol</option>
+			<option value="Diesel">Diesel</option>
+			<option value="CNG">CNG</option>
 
                 </select>
               </div>
